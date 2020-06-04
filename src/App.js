@@ -15,7 +15,7 @@ function App() {
     alt = "logo" / >
     <
     p >
-    Leyan has doubled changed in Feature branch <
+    Leyan has changed in Feature branch <
     /p> <
     a className = "App-link"
     href = "https://reactjs.org"
